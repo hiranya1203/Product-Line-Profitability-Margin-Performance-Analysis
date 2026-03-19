@@ -125,13 +125,11 @@ Key findings:
 - High-performing geographic markets are concentrated in major metropolitan regions.
 
 These insights can support better decision-making for:
-
-- Pricing strategies
-- Marketing focus
-- Inventory management
-- Product portfolio optimization.
-
----
+-Focus on High-Profit Products
+-Address Low-Margin products 
+-Products such as Kazookles should be reviewed for: 
+-price adjustments, cost optimization, supplier renegotiation
+-Strengthen High-Performing Markets
 
 # Interactive Dashboard
 
@@ -149,15 +147,14 @@ The dashboard includes:
 
 ### Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Streamlit dashboard](images/nassau_streamlit_ss1.png) [2nd screenshot](images/nassau_streamlit_ss2.png)
 
-### Profit Diagnostics
+# Author
+P.Hiranya, 
+PGDM in Finance & Business Analytics
 
-![Dashboard Diagnostics](images/dashboard_diagnostics.png)
 
-### Interactive Filters
 
-![Dashboard Filters](images/dashboard_filter.png)
 
 
 
