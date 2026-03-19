@@ -147,7 +147,7 @@ The dashboard includes:
 
 ### Overview
 
-![Streamlit dashboard](images/nassau_streamlit_ss1.png) [2nd screenshot](images/nassau_streamlit_ss2.png)
+![Streamlit dashboard](nassau_streamlit_ss1.png) [2nd screenshot](nassau_streamlit_ss2.png)
 
 # Author
 P.Hiranya, 
