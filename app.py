@@ -19,7 +19,7 @@ cost diagnostics, and profit concentration.
 """)
 
 # Load Dataset
-df = pd.read_csv(r"C:\Users\swathikanike\Downloads\nassau-candy-profitability-analysis\cleaned_nassau_sales.csv")
+df = pd.read_csv(r"cleaned_nassau_sales.csv")
 
 # Sidebar Filters
 st.sidebar.header("Dashboard Filters")
